@@ -1,6 +1,6 @@
 // https://www.acmicpc.net/problem/2789
 
-package baekjoon.NO2798;
+package baekjoon;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 
-public class Main {
+public class NO2798 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
