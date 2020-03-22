@@ -15,9 +15,9 @@
 
 ### 자료구조
 + [스택(10828)](https://www.acmicpc.net/problem/10828)
-+ [단어 뒤집기](https://www.acmicpc.net/problem/9093)
-+ [괄호](https://www.acmicpc.net/problem/9012)
-+ [스택 수열](https://www.acmicpc.net/problem/1874)
++ [단어 뒤집기(9093)](https://www.acmicpc.net/problem/9093)
++ [괄호(9012)](https://www.acmicpc.net/problem/9012)
++ [스택 수열(1874)](https://www.acmicpc.net/problem/1874)
 + [에디터](https://www.acmicpc.net/problem/1406)
 + [큐](https://www.acmicpc.net/problem/10845)
 + [조세퍼스 문제](https://www.acmicpc.net/problem/1158)
