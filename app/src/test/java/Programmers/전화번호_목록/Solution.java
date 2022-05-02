@@ -9,6 +9,8 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
+// https://programmers.co.kr/learn/courses/30/lessons/42577
+// 푼 날짜 : 220429
 public class Solution {
     public boolean 나의_풀이(String[] phone_book) {
         Arrays.sort(phone_book);
