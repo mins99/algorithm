@@ -30,3 +30,6 @@
 + [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) - [풀이](app/src/test/java/Programmers/완주하지_못한_선수/Solution.java)
 + [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [풀이](app/src/test/java/Programmers/위장/Solution.java)
 + [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) - [풀이](app/src/test/java/Programmers/전화번호_목록/Solution.java)
+####
++ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - [풀이](app/src/test/java/Programmers/두_개_뽑아서_더하기/Solution.java)
++ [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) - [풀이](app/src/test/java/Programmers/체육복/Solution.java)
