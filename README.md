@@ -33,3 +33,4 @@
 ####
 + [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - [풀이](app/src/test/java/Programmers/두_개_뽑아서_더하기/Solution.java)
 + [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) - [풀이](app/src/test/java/Programmers/체육복/Solution.java)
++ [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) - [풀이](app/src/test/java/Programmers/구명보트/Solution.java)
